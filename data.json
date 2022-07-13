@@ -72,11 +72,22 @@
       }
     ],
     "interest": [
-      "javascript",
-      "devOps",
-      "FullStack",
-      "Product Management",
-      "BlockChain"
+      {
+        "name": "javascript"
+      },
+      {
+        "name": "devOps"
+      },
+      {
+        "name": "FullStack"
+      },
+      {
+        "name": "Product Management"
+      },
+      {
+        "name": "BlockChain"
+      }
+
     ],
     "languages": [
       {
