@@ -39,18 +39,18 @@
     ],
     "experience": [
       {
-        "company": "PugStar",
+        "company": "Appen",
         "endDate": "Present",
-        "jobDescription": "scratch the furniture. Good now the other hand, too lay on arms while you're using the keyboard.",
-        "jobTitle": "Frontend",
-        "startDate": "Jan 2020"
+        "jobDescription": "Colaborate as staff in a variety of projects",
+        "jobTitle": "Freelancer",
+        "startDate": "Jan 2021"
       },
       {
-        "company": "CatStore",
-        "endDate": "Jan 2016",
-        "jobDescription": "Meow in empty rooms lick left leg for ninety minutes, still dirty.",
-        "jobTitle": "Backend",
-        "startDate": "Sept 2019"
+        "company": "Citibanamex",
+        "endDate": "Jun 2019",
+        "jobDescription": "Manager staff of an e-banking platform business",
+        "jobTitle": "Product Specialist",
+        "startDate": "Aug 2014"
       }
     ],
     "skills": [
