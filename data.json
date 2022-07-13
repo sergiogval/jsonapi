@@ -81,11 +81,11 @@
     "languages": [
       {
         "name": "Spanish",
-        "percentage": "90%"
+        "level": "Native"
       },
       {
         "name": "English",
-        "percentage": "50%"
+        "level": "C1"
       }
     ],
     "social": [
